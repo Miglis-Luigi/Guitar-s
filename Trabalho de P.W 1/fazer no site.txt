@@ -1,5 +1,0 @@
-Colocar video 
-	escolher guitarra
-	trocar as cordas da guitarra
-colocar letra captular
-modificar o haeder (rgba)
